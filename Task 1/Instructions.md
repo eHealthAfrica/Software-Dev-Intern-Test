@@ -19,5 +19,5 @@ To complete all the tasks in this test, you will be making use of this repositor
 ### Additional Instructions
 - N/A
 
-### Resources (that might be helpful)
+### Resources (that you may find helpful)
 - [Git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
