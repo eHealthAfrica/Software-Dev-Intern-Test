@@ -10,7 +10,7 @@ To complete all the tasks in this test, you will be making use of this repositor
 
 1. Create a *private repo* on [Github](https://github.com/) or [Bitbucket](https://bitbucket.org/) and push the contents of this repository to the private repository. Hint: See how to [manage git remotes](https://help.github.com/categories/managing-remotes/).
 
-2. The code in the file [random-quotes.js](/Task 1/random-quotes.js) when executed, prints out a random quote from an object that contains quotes as values and number indexes as keys. We will want you to make some changes to the code to only print out quotes whose key is not an even number.
+2. The code in the file [random-quotes.js](/Task%201/random-quotes.js) when executed, prints out a random quote from an object that contains quotes as values and number indexes as keys. We will want you to make some changes to the code to only print out quotes whose key is not an even number.
 
 3. Create a branch having a name starting with the prefix `fix/` and a suffix that describes the implementation needed in two.
 
