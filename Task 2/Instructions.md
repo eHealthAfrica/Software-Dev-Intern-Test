@@ -17,7 +17,7 @@ eHealth Africa has different teams implementing projects across Africa and one o
 
     a. Information regarding the timezones and coordinates of the country can be gotten from the response gotten from the [REST COUNTRIES](https://restcountries.eu/) endpoints.
 
-2. The list of countries in Africa should also be represented on a table with the following fields as columns: name, capital, population, timezones and flag (image).
+2. The list of countries in Africa should also be represented on a HTML table with the following fields as columns: name, capital, population, timezones and flag (image).
 
     a. On table, countries that have timezone that are +1/-1 from the current user's timezone should have a row background color of green indicating that teams in that countries are in a closer timezone than the rest.
 
