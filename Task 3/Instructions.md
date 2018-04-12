@@ -3,9 +3,8 @@
 
 ## Skills to be assessed
 
-- Ability to read and understand SQL queries
-- Ability to write SQL queries
-- Familiarity with SQL databases
+- Ability to implement simple page designs using purely HTML and CSS.
+- Approach to implement responsiveness in pages.
 
 ## Challenge
 
