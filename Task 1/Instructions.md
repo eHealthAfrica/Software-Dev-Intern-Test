@@ -16,9 +16,5 @@ To complete all the tasks in this test, you will be making use of this repositor
 
 4. Open a pull request proposing changes from the branch created in 3 above to be merged to the master branch on your private repo created in 1. Your pull request should have a brief description of the code changes you have made.
 
-### Additional Instructions
-1. Grant read access to your repository to the underlisted email addresses:
-    - samuel.okoroafor@ehealthafrica.org
-
 ### Resources (that you may find helpful)
 - [Git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/)

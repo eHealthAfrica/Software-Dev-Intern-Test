@@ -5,3 +5,6 @@ All implementations relating to a specific task should do into the sub folder fo
 
 ### Questions
 If you have any questions regarding this test or any of the tasks, please open an issue on this repo and someone from the team will respond with answers.
+
+### Submissions
+Instructions on how to submit your implementation is in the guide that was shared with you.
