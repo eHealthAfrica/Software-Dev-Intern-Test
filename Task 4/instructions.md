@@ -27,11 +27,8 @@ Explain your answer.
 Id|Name|Sex|Salary
 -|-|-|-
 1 |  A |  m  |  2500
--|-|-|-
 2 |  B |  f  |  1500
--|-|-|-
 3 |  C |  m  |  5500
--|-|-|-
 4 |  D |  f  |  500
 
 4. Given these contents of the Customers table:
@@ -39,16 +36,13 @@ Id|Name|Sex|Salary
 Id |	Name	|	ReferredBy
 -|-|-
 1	| John Doe	|	NULL
--|-|-
 2	|Jane Smith	|	NULL
--|-|-
 3	| A nne Jenkins |		2
--|-|-
 4 |	Eric Branford	 |	NULL
--|-|-
 5 |	Pat Richards	 |	1
--|-|-
 6	| Alice Barnes	|	2
+
+
 Here is a query written to return the list of customers not referred by Jane Smith:
 
 SELECT Name FROM Customers WHERE ReferredBy <> 2;
