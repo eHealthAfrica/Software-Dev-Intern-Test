@@ -1,6 +1,1 @@
-
-UPDATE docs SET doctext=pageseq FROM docs INNER JOIN envelope ON envelope.id=docs.idnum
-WHERE EXISTS (
-  SELECT 1 FROM dbo.docs
-  WHERE id=envelope.id
-);
+SELECT * FROM runners WHERE id NOT IN (SELECT winner_id FROM races) ORDER BY name asc
