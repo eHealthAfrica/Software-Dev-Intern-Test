@@ -7,8 +7,7 @@
 * Familiarity with SQL databases
 
 ### Challenge
-
-To complete all the tasks in this test, you will be making use of this repository. For your first challenge, please clone this repository into a folder on your local computer and complete the following:
+Complete the following:
 
 1. The query in the file [understand.sql](understand.sql) In your own word explain what the query does. The use of sql related terms is required.
 
@@ -49,4 +48,4 @@ What will be the result of the query? Why? What would be a better way to write i
 
 ### Resources (that you may find helpful)
 
-* [Git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
