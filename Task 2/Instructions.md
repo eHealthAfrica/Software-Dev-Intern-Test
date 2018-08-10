@@ -6,7 +6,6 @@
 - Approach to problem solving
 - Ability to implement clean and readable code
 - Ability to work with REST APIs
-- Ability to work with Geospatial client JS libraries
 - Ability to use a dependency manager
 
 ### Challenge
