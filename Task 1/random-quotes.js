@@ -8,7 +8,13 @@ displayRandomQuote = function () {
         5: "Without requirements or design, programming is the art of adding bugs to an empty 'text' file."
 
     }
+    
+    //print quotes with odd keys
     var rand = Math.floor(Math.random() * Object.keys(quotes).length);
-    console.log(quotes[rand]);
-}
+        if(rand%2 !== 0){
+            console.log(quotes[rand]);
+        }
+    }
+
+
 displayRandomQuote();
